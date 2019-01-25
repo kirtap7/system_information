@@ -12,8 +12,12 @@ The program displays:
 
 ### Install
 
-navigate to local folder and install with `pip`
+download and extract folder, navigate to folder and install with `pip`
 ```
 cd system_information
 pip install .
 ```
+
+### Usage
+
+type `system_information` in the command-line
