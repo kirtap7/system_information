@@ -1,0 +1,3 @@
+[console_scripts]
+systeminformation = systeminformation.main:main
+
